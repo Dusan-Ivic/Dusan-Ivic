@@ -4,7 +4,7 @@
   <img align="center" src="https://github-readme-stats-rbaqyoq7x-dusan-ivic.vercel.app/api?username=Dusan-Ivic&card_width=300&hide=contribs&show_icons=true&theme=react" />
 </a>
 <a href="https://github.com/Dusan-Ivic">
-  <img align="center" src="https://github-readme-stats-rbaqyoq7x-dusan-ivic.vercel.app/api/top-langs/?username=Dusan-Ivic&card_width=300&theme=react&hide_progress=true" />
+  <img align="center" src="https://github-readme-stats-rbaqyoq7x-dusan-ivic.vercel.app/api/top-langs/?username=Dusan-Ivic&card_width=300&theme=react&layout=compact" />
 </a>
 
 ## Projects
