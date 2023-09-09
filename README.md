@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <a href="https://github.com/Dusan-Ivic">
-  <img height=200 align="center" src="https://github-readme-stats-rbaqyoq7x-dusan-ivic.vercel.app/api?username=Dusan-Ivic&hide=contribs&show_icons=true&theme=react" />
+  <img align="center" src="https://github-readme-stats-rbaqyoq7x-dusan-ivic.vercel.app/api?username=Dusan-Ivic&card_width=300&hide=contribs&show_icons=true&theme=react" />
 </a>
 <a href="https://github.com/Dusan-Ivic">
-  <img height=200 align="center" src="https://github-readme-stats-rbaqyoq7x-dusan-ivic.vercel.app/api/top-langs/?username=Dusan-Ivic&langs_count=10&theme=react&hide_progress=true&card_width=320" />
+  <img align="center" src="https://github-readme-stats-rbaqyoq7x-dusan-ivic.vercel.app/api/top-langs/?username=Dusan-Ivic&card_width=300&theme=react&hide_progress=true" />
 </a>
 
 ## Projects
