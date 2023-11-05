@@ -10,6 +10,6 @@
 <div>
   <h2>Most Used Languages</h2>
   <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dusan-Ivic&theme=react&layout=compact&card_width=450" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dusan-Ivic&theme=react&layout=compact&langs_count=8&card_width=450" />
   </p>
 </div>
